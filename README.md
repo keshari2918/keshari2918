@@ -1,16 +1,18 @@
-## Hi there 👋
+# Profile
 
-<!--
-**keshari2918/keshari2918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I am Keshari, a passionate software developer with a focus on web and mobile application development. I thrive in challenging environments and take pride in delivering high-quality code.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Databases: MongoDB, MySQL
+- Tools & Technologies: Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project 1:** A web application that helps users manage their tasks effectively.
+- **Project 2:** A mobile app built with React Native for tracking fitness activities.
+
+## Contact
+- Email: keshari@example.com
+- LinkedIn: [keshari2918](https://linkedin.com/in/keshari2918)
